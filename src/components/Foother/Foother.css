@@ -1,0 +1,7 @@
+.foother_container{
+    width: 80vw;
+    height: 10vh;
+    border: 2px solid red;
+    margin: auto;
+    background-color: azure;
+}
